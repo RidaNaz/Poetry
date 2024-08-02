@@ -1,6 +1,7 @@
 # Create Project and Manage Dependencies with Poetry
 
 [Poetry Installation in Windows](https://gist.github.com/Isfhan/b8b104c8095d8475eb377230300de9b0)
+
 [Explore it!](https://realpython.com/dependency-management-python-poetry/)
 
 ## 1. Check Version
@@ -65,7 +66,7 @@ After installing, the dependencies will show in `pyproject.toml` file:
 
 ![Ss](/public/pic-5.jpg)
 
-## Build & Publish
+## 8. Build & Publish
 
 * You first have to create an account and log-in into [PYPI.org](https://pypi.org/)
 
